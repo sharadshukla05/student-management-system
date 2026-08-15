@@ -1,0 +1,24 @@
+
+# Binary data file — do not commit
+students.dat
+
+# Compiled executables
+*.exe
+*.out
+student_ms
+
+# Object / intermediate files
+*.o
+*.obj
+
+# IDE files
+.vscode/
+*.cbp
+*.layout
+*.depend
+nbproject/
+
+# Build directories
+build/
+Debug/
+Release/
